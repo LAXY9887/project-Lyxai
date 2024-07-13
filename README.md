@@ -31,6 +31,10 @@ This repo contains LLMs training by myself, for optimizing user experience while
 
 </div>
 
+# Method
+
+I will use some open source LLMs to be the base-model, like gemma2 (Google), Llama3 (Meta) and Breeze (臺灣聯發科), finetuining them by the [unslothai](https://github.com/unslothai/unsloth) package. I use my own PC with RTX4070 and 32 GB RAM.
+
 ### Lyxai:
 
 是的，我的主人 😊
