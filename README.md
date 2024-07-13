@@ -1,5 +1,5 @@
 # project-Lyxai
-This repo contains LLMs training by myself, for optimizing traditional Chinese. LLMs will be trained specific field knowledge or characteristic.
+This repo contains LLMs training by myself, for optimizing user experience while using traditional Chinese. LLMs will be trained specific field knowledge or characteristic.
 
 # Purpose
 
