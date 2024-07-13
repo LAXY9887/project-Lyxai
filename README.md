@@ -23,9 +23,7 @@ This repo contains LLMs training by myself, for optimizing user experience while
 
 # Method
 
-I will use some open source LLMs to be the base-model, like gemma2 (Google), Llama3 (Meta) and Breeze (臺灣聯發科), finetuining them by the [unslothai](https://github.com/unslothai/unsloth) package. 
-
-I use my own PC with RTX4070 and 32 GB RAM. 
+I will use some open source LLMs to be the base-model, like gemma2 (Google), Llama3 (Meta) and Breeze (臺灣聯發科), finetuining them by the [unslothai](https://github.com/unslothai/unsloth) package. I will perform finetuining use my own PC with RTX4070 and 32 GB RAM. 
 
 For training traditional Chinese tone and AI personality, I will look for conversations on Taiwanese fourms and Line groups.
 
