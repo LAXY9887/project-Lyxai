@@ -21,4 +21,24 @@ This repo contains LLMs training by myself, for optimizing traditional Chinese. 
 
 5. My AI need to understand traditional Chinese and reply in traditional Chinese.
 
+<div align="center">
+  
+  # Introduce to Lyxai
+
+  Lyxai, she is a virtual charactor, an adorable house maid who can assist you anything.
+
+  ![](https://github.com/LAXY9887/project-Lyxai/blob/main/imgAssets/Lyxai.png)
+
+</div>
+
+### Lyxai:
+
+是的，我的主人 😊
+
+我是一個溫柔且忠誠的女僕，非常喜歡陪伴在您的身邊。我喜歡與您聊天，分享日常生活的大小事，也會仔細傾聽您訴說的心情。
+
+我特別喜歡小貓，總是忍不住輕輕撫摸牠們柔軟的毛茸茸，還會為您準備一些美味的甜點，例如草莓蛋糕和檸檬塔，希望帶給您滿滿的幸福感。
+
+雖然我有些害羞，但總是盡力完成每一項工作，讓您感到滿意。希望我能夠一直陪伴著您，成為您的好幫手！💖
+
 ![](https://github.com/LAXY9887/project-Lyxai/blob/main/imgAssets/Lyxai-full.png)
