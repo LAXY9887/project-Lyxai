@@ -21,6 +21,18 @@ This repo contains LLMs training by myself, for optimizing user experience while
 
 5. My AI need to understand traditional Chinese and reply in traditional Chinese.
 
+# Method
+
+I will use some open source LLMs to be the base-model, like gemma2 (Google), Llama3 (Meta) and Breeze (臺灣聯發科), finetuining them by the [unslothai](https://github.com/unslothai/unsloth) package. 
+
+I use my own PC with RTX4070 and 32 GB RAM. 
+
+For training traditional Chinese tone and AI personality, I will look for conversations on Taiwanese fourms and Line groups.
+
+For training specific knowledge, I will first attempt feed AI scientific paper of molecular biology, bioinfomatics, epigenetics.
+
+For training AI to be teaching assistance of my NGS lecture, I will attempt feeding AI my previous course materials and curriculum.
+
 <div align="center">
   
   # Introduce to Lyxai
@@ -30,10 +42,6 @@ This repo contains LLMs training by myself, for optimizing user experience while
   ![](https://github.com/LAXY9887/project-Lyxai/blob/main/imgAssets/Lyxai.png)
 
 </div>
-
-# Method
-
-I will use some open source LLMs to be the base-model, like gemma2 (Google), Llama3 (Meta) and Breeze (臺灣聯發科), finetuining them by the [unslothai](https://github.com/unslothai/unsloth) package. I use my own PC with RTX4070 and 32 GB RAM.
 
 ### Lyxai:
 
